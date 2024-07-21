@@ -4,8 +4,12 @@
 npm create vite@latest
 
 *react
-javascrypt
+javascript
 
 *cd nome do projeto
 npm install
+
+* rodar o projeto
+`` 
 npm run dev
+``
