@@ -12,13 +12,17 @@ function App() {
       <section>
         <h3>Cadastro cliente</h3>
         <input type="text" placeholder='nome' />
+        <input type="text" placeholder="sobre nome" />
         <input type="text" placeholder='telefone' />
+        <input type="text" placeholder='e-mail' />
         <button>Cadastrar</button>
       </section>
+      <h3>DATA DO CADASTRO</h3>
 
-      
-
-
+      <header>anincie aqui</header>
+<table><header>Ponto de venda</header></table>
+    
+    
     </>
   )
 }
