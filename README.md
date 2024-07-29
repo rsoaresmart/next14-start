@@ -1,4 +1,8 @@
 # ## Criando projeto react
+1.
+https://www.youtube.com/watch?v=IcFRF8Qg8e4
+
+2.
 https://www.youtube.com/watch?v=tUQDzI26TLo
 
 *criaçao do projeto
