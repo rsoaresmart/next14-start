@@ -1,4 +1,5 @@
 # ## Criando projeto react
+https://www.youtube.com/watch?v=tUQDzI26TLo
 
 *criaçao do projeto
 npm create vite@latest
